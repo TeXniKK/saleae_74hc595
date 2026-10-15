@@ -1,0 +1,9 @@
+build/
+_deps/
+*.o
+*.so
+*.dll
+*.dylib
+.DS_Store
+compile_commands.json
+.vscode/
